@@ -311,6 +311,56 @@ FOOD_DB = {
     "Oats (1 cup cooked, ~234g)":    {"calories": 166, "carbs": 28, "protein": 5.9, "fat": 3.6},
     "Coffee (black, 240ml)":         {"calories": 5,   "carbs": 0,  "protein": 0.3, "fat": 0.1},
     "Tea with milk (240ml)":         {"calories": 30,  "carbs": 3,  "protein": 1.5, "fat": 1.5},
+    "Cooked Rice (white) (100 g)": {"calories": 130.0, "carbs": 28.0, "protein": 2.7, "fat": 0.3},
+    "Wheat Roti / Chapati (1 medium (40 g))": {"calories": 104.0, "carbs": 20.0, "protein": 3.0, "fat": 1.7},
+    "Whole Wheat Flour (Atta) (100 g (raw))": {"calories": 341.0, "carbs": 72.0, "protein": 12.0, "fat": 1.7},
+    "Basmati Rice (cooked) (100 g)": {"calories": 121.0, "carbs": 25.0, "protein": 2.7, "fat": 0.4},
+    "Idli (2 pieces (~70 g))": {"calories": 78.0, "carbs": 16.0, "protein": 2.5, "fat": 0.4},
+    "Dosa (plain) (1 medium (~80 g))": {"calories": 168.0, "carbs": 28.0, "protein": 3.9, "fat": 3.7},
+    "Poha (flattened rice) (1 bowl (150 g cooked))": {"calories": 180.0, "carbs": 38.0, "protein": 3.6, "fat": 1.8},
+    "Upma (semolina) (1 bowl (150 g cooked))": {"calories": 200.0, "carbs": 32.0, "protein": 4.5, "fat": 6.0},
+    "Paratha (plain, with oil) (1 medium (60 g))": {"calories": 210.0, "carbs": 27.0, "protein": 4.0, "fat": 9.0},
+    "Puri (1 piece (25 g))": {"calories": 101.0, "carbs": 11.0, "protein": 1.7, "fat": 5.5},
+    "Toor / Arhar Dal (cooked) (1 bowl (150 g))": {"calories": 170.0, "carbs": 28.0, "protein": 10.5, "fat": 1.5},
+    "Moong Dal (cooked) (1 bowl (150 g))": {"calories": 150.0, "carbs": 25.0, "protein": 10.0, "fat": 0.6},
+    "Chana Dal (cooked) (1 bowl (150 g))": {"calories": 210.0, "carbs": 34.0, "protein": 12.0, "fat": 3.0},
+    "Rajma (Kidney Beans, cooked) (1 bowl (150 g))": {"calories": 165.0, "carbs": 30.0, "protein": 10.5, "fat": 0.6},
+    "Chole (Chickpeas, cooked) (1 bowl (150 g))": {"calories": 210.0, "carbs": 34.0, "protein": 11.0, "fat": 3.0},
+    "Paneer (100 g)": {"calories": 265.0, "carbs": 1.2, "protein": 18.3, "fat": 20.8},
+    "Curd / Yogurt (Dahi) (100 g)": {"calories": 60.0, "carbs": 4.7, "protein": 3.5, "fat": 3.3},
+    "Milk (whole/full cream) (1 glass (200 ml))": {"calories": 134.0, "carbs": 9.6, "protein": 6.4, "fat": 8.0},
+    "Buttermilk (Chaas) (1 glass (200 ml))": {"calories": 40.0, "carbs": 3.6, "protein": 2.0, "fat": 1.8},
+    "Ghee (1 tsp (5 g))": {"calories": 45.0, "carbs": 0.0, "protein": 0.0, "fat": 5.0},
+    "Butter (1 tsp (5 g))": {"calories": 36.0, "carbs": 0.0, "protein": 0.0, "fat": 4.1},
+    "Egg (whole, boiled) (1 large (50 g))": {"calories": 78.0, "carbs": 0.6, "protein": 6.3, "fat": 5.3},
+    "Chicken (cooked, breast) (100 g)": {"calories": 165.0, "carbs": 0.0, "protein": 31.0, "fat": 3.6},
+    "Mutton (cooked) (100 g)": {"calories": 250.0, "carbs": 0.0, "protein": 25.0, "fat": 16.0},
+    "Fish (Rohu, cooked) (100 g)": {"calories": 105.0, "carbs": 0.0, "protein": 20.0, "fat": 2.4},
+    "Potato (boiled) (100 g)": {"calories": 87.0, "carbs": 20.0, "protein": 1.9, "fat": 0.1},
+    "Onion (raw) (100 g)": {"calories": 40.0, "carbs": 9.3, "protein": 1.1, "fat": 0.1},
+    "Tomato (raw) (100 g)": {"calories": 18.0, "carbs": 3.9, "protein": 0.9, "fat": 0.2},
+    "Spinach / Palak (cooked) (100 g)": {"calories": 23.0, "carbs": 3.6, "protein": 2.9, "fat": 0.4},
+    "Cauliflower (cooked) (100 g)": {"calories": 25.0, "carbs": 5.0, "protein": 1.8, "fat": 0.3},
+    "Bhindi / Okra (cooked) (100 g)": {"calories": 35.0, "carbs": 7.5, "protein": 2.0, "fat": 0.2},
+    "Brinjal / Baingan (cooked) (100 g)": {"calories": 25.0, "carbs": 5.9, "protein": 1.0, "fat": 0.2},
+    "Green Peas (cooked) (100 g)": {"calories": 84.0, "carbs": 14.5, "protein": 5.4, "fat": 0.4},
+    "Carrot (raw) (100 g)": {"calories": 41.0, "carbs": 9.6, "protein": 0.9, "fat": 0.2},
+    "Cucumber (raw) (100 g)": {"calories": 15.0, "carbs": 3.6, "protein": 0.7, "fat": 0.1},
+    "Banana (1 medium (120 g))": {"calories": 105.0, "carbs": 27.0, "protein": 1.3, "fat": 0.4},
+    "Apple (1 medium (150 g))": {"calories": 78.0, "carbs": 21.0, "protein": 0.4, "fat": 0.3},
+    "Mango (1 medium (200 g))": {"calories": 120.0, "carbs": 30.0, "protein": 1.6, "fat": 0.6},
+    "Papaya (100 g)": {"calories": 43.0, "carbs": 11.0, "protein": 0.5, "fat": 0.3},
+    "Orange (1 medium (130 g))": {"calories": 62.0, "carbs": 15.5, "protein": 1.2, "fat": 0.2},
+    "Peanuts (roasted) (30 g (handful))": {"calories": 170.0, "carbs": 6.0, "protein": 7.7, "fat": 14.5},
+    "Almonds (10 pieces (12 g))": {"calories": 70.0, "carbs": 2.6, "protein": 2.6, "fat": 6.0},
+    "Cashews (10 pieces (15 g))": {"calories": 87.0, "carbs": 4.9, "protein": 2.8, "fat": 7.0},
+    "Coconut (fresh) (30 g piece)": {"calories": 106.0, "carbs": 4.6, "protein": 1.0, "fat": 10.1},
+    "Tea (with milk & sugar) (1 cup (150 ml))": {"calories": 55.0, "carbs": 8.5, "protein": 1.2, "fat": 1.8},
+    "Coffee (with milk & sugar) (1 cup (150 ml))": {"calories": 60.0, "carbs": 9.0, "protein": 1.5, "fat": 1.8},
+    "Sugar (1 tsp (5 g))": {"calories": 19.0, "carbs": 5.0, "protein": 0.0, "fat": 0.0},
+    "Jaggery (Gur) (1 tsp (5 g))": {"calories": 19.0, "carbs": 4.8, "protein": 0.0, "fat": 0.0},
+    "Samosa (1 piece (60 g))": {"calories": 260.0, "carbs": 24.0, "protein": 3.5, "fat": 17.0},
+    "Glucose Biscuits (4 biscuits (25 g))": {"calories": 110.0, "carbs": 19.0, "protein": 1.7, "fat": 3.2},
 }
 
 INSULIN_TYPES = [
@@ -1126,7 +1176,7 @@ def main():
         edited_history = st.data_editor(
             st.session_state.glucose_history_df,
             num_rows="dynamic",
-            width='stretch',
+            use_container_width=True,
             column_config={
                 "Date": st.column_config.DateColumn(
                     "Date", max_value=datetime.now().date(),
@@ -1173,7 +1223,7 @@ def main():
             trend_sorted = valid_readings.sort_values("Date")
             st.plotly_chart(
                 three_month_trend_chart(trend_sorted["Date"], trend_sorted["Glucose (mg/dL)"]),
-                width='stretch', config={'displayModeBar': False}
+                use_container_width=True, config={'displayModeBar': False}
             )
 
             st.caption("⚠️ This is an educational estimate based on the standard average-glucose-to-HbA1c relationship, calculated from self-reported readings — it is **not** an actual lab HbA1c test. Please consult a healthcare provider for real diagnosis.")
@@ -1379,7 +1429,7 @@ def main():
         'Status': [glucose_status_label(v) for v in
                    [current_glucose, predictions[30], predictions[60], predictions[90], predictions[120]]]
     })
-    st.dataframe(pred_df, width='stretch', hide_index=True)
+    st.dataframe(pred_df, use_container_width=True, hide_index=True)
 
     st.markdown("---")
 
@@ -1397,14 +1447,14 @@ def main():
     col_chart1, col_chart2 = st.columns(2)
     with col_chart1:
         st.plotly_chart(glucose_trend_chart(current_glucose, predictions),
-                        width='stretch', config={'displayModeBar': False})
+                        use_container_width=True, config={'displayModeBar': False})
     with col_chart2:
         st.plotly_chart(nutrition_pie_chart(total_carbs, total_protein, total_fat),
-                        width='stretch', config={'displayModeBar': False})
+                        use_container_width=True, config={'displayModeBar': False})
 
     # Row 2: Calorie summary
     st.plotly_chart(calorie_summary_chart(food_log),
-                    width='stretch', config={'displayModeBar': False})
+                    use_container_width=True, config={'displayModeBar': False})
 
     st.markdown("---")
 
@@ -1430,7 +1480,7 @@ def main():
     col_gauge, col_space = st.columns([1, 1.5])
     with col_gauge:
         st.plotly_chart(risk_gauge(hs, risk),
-                        width='stretch', config={'displayModeBar': False})
+                        use_container_width=True, config={'displayModeBar': False})
 
     st.markdown("---")
 
