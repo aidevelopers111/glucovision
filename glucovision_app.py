@@ -394,10 +394,10 @@ FOOD_DB = {
 }
 INSULIN_TYPES = [
     "No Insulin",
-    "Rapid-Acting (e.g., Lispro, Aspart)",
-    "Short-Acting (Regular)",
-    "Intermediate-Acting (NPH)",
-    "Long-Acting (Glargine, Detemir)",
+    "Rapid-Acting (e.g., Lispro, Aspart)", #duration 3-5 hrs,peak 1-3 hrs, act 10-15mins just before the meal
+    "Short-Acting (Regular)", #duration 5-8 hrs, peak 2-4 hrs, act 30-60 mins. 30 mins before
+    "Intermediate-Acting (NPH)", #duartion=12-18,peak 12-14 hrs, act=2hrs provide basal insulin throughout the time
+    "Long-Acting (Glargine, Detemir)",#duration 20-42hrs, act 1-2 hrs, work day and night and keep insulin stable.
     "Mixed Insulin (70/30)",
 ]
 
@@ -1647,7 +1647,7 @@ def main():
             for any medical concerns.
         </div>
         <div style="font-size:0.72rem; color:#334155; margin-top:1rem">
-            GlucoVision AI v1.0 · Science Fair Edition · Built with Streamlit + Plotly + ReportLab
+            GlucoVision AI v1.0 · Science Fair Edition
         </div>
     </div>
     """, unsafe_allow_html=True)
